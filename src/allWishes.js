@@ -72,6 +72,52 @@ const wishes = [
     {
         msg: `First things first, Werey ni Ayo but all in all he’s a very good lad! Defo one of the best tbh! Known him for a bit but we started talking properly just recently and Omo it’s been straight up vibes, you can just tell he’s a good person and he’d be a very great person! I’m glad I’m part of his journey and I know we’re going to win big in this life! I wish him the very best of everything life has to offer and congratulations to him on achieving this milestone ❤️`,
         author: "Akeeb"
+    },
+    {
+        msg: `My special friend, you have been with me through it all. How we became friends just cus a mutual friend of ours told you she had a friend coming to Babcock, you took it upon yourself to find me and continuously checked up on me, that marked the beginning of our friendship. How we always dedicated one “dorcasing” night to ourselves just to catch up and check in on ourselves. How this made my boyfriend at the time jealous😂😂
+        Let’s also not forget how annoying you can be… lol. No one fights as much as we do, but we always find a way to stay friends ( I think we’re fighting presently sef, but we go still settle am). I might not say this often but I cherish and appreciate our friendship a lot . 
+        You’re so selfless, how you always put others even before yourself, always there when needed. I’m so blessed to have you in my corner. I’m super proud of you and excited for this new phase you’re about to embark on. I wish you success, more money and lots more money ( so I can bill you 😏).
+        I Love you, miss you and I can’t wait to see you❤️❤️
+        Congratulations Ayomide Alabi Emmanuel 🥳👨🏼‍🎓🚀`,
+        author: "Remi - Iyawo Jibola"
+    },
+    {
+        msg: `Congratulations on your graduation Ayomide! No part of achieving this feat was easy and I can only pray that it brings forth a career that you’ll go on to excel at. I wish you nothing but the very best! 🥳 Now go pour one up for yourself, you deserve it!`,
+        author: "Ire"
+    },
+    {
+        msg: `Ayo my brother . No much words to say tbh . Actually words too plenty but I gotta keep short . You have been a blessing to my life and I really appreciate you every time . You always come through for me and I thank God for that . I’m so glad you got to finish this Program with Distinction and I’m proud asf for you .Congratulations on this new feat.  I cant wait for you to experience God’s blessings and I still promise to buy your dream car - Range Rover Autobiography. I Love you my bro ❤️`,
+        author: "Fasho"
+    },
+    {
+        msg: `BBM! 
+        Love you so much and thanks for being a real one. 
+        I’m grateful to God for bringing you my way. Can’t remember how we became friends but I’m glad we did. 
+        Thanks for picking my calls most times and listening to all my yarns. Good and bad. 
+        Thanks for being my sugar friend. I’m still expecting the sugar *wink wink* 
+        The fact that you consider me a friend and care for me the way you do gives me joy. 
+        You are a big boy and I love it for you! 
+        Bigger you boss (*twale sign*) I pray God blesses you and makes your ways fruitful. You deserve happiness baybee.
+        Keep winning! Love you Baddest bitch ❤️`,
+        author: "Tinko Abby"
+    },
+    {
+        msg: `There’s a whole lot I want to write about that I can’t even say lmao 
+        Ayo really means the world to me cause he has literally shown me the best of times 
+        He’s literally the best man to have at your side and clearly a lot of other people think that as well
+        I’m very very glad I get to experience friendship with him 
+        It’s literally one of the best things ,he’s extremely thoughtful and( I cannot stress this enough )caring 
+        I just really hope he knows how much of a wonderful person I think he is and I’m super grateful to God for putting in my life (if he like make e try comot I don swallow the key)
+        I can’t wait to see him accomplish all his goals and get all the joy and happiness he really deserves 
+        He’s a super annoying fellow but I really wouldn’t want it any other way o
+        He makes me feel like I’ve won the lottery or friendship and I hope I make him feel the same way 
+        Thank you for always always being there ❤️`,
+        author: "Love Renike"
+    },
+    {
+        msg: `I am proud of your achievements, but even more proud of the person you are becoming. I hope that this achievement will unlock even more doors to the success you very well deserve.
+        Congratulations, Ayomide`,
+        author: "Olajumoke"
     }
 ]
 
