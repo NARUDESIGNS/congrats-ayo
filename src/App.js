@@ -1,24 +1,28 @@
-import logo from './logo.svg';
 import './App.css';
+import Confetti from './Confetti';
+import Wishes from './Wishes';
+import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <BrowserRouter>
+      <div className="App">
+        <Routes>
+          <Route path="/" element={
+            <>
+              <Confetti />
+              <div className="congrats">
+                <p className="congrats__msg">Congrats Ayo</p>
+                <Link to="/wishes"> 
+                  <button className="congrats__btn">From us all</button>
+                </Link>
+              </div>
+            </>
+          } />
+          <Route path="/wishes" element={<Wishes />}/>
+        </Routes>
+      </div>
+    </BrowserRouter>
   );
 }
 
