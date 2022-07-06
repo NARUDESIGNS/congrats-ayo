@@ -118,6 +118,20 @@ const wishes = [
         msg: `I am proud of your achievements, but even more proud of the person you are becoming. I hope that this achievement will unlock even more doors to the success you very well deserve.
         Congratulations, Ayomide`,
         author: "Olajumoke"
+    },
+    {
+        msg: `From engaging with a total stranger’s tweet in 2017 to becoming one of my closest friends.  
+
+        Ayomide, you’ve been such a GOOD friend in every sense of the word over the years. You are reliable, loving, veryyyyyy annoying but caring.
+        Thank you for being one of the safest places where I can cry and be myself.
+        You shade me a lot but I know that you dey feel my vibe dieeeee😂
+        
+        I’m so happy for you, so proud of you; you not only achieved a great milestone but you did it with flying colours and I’m here wondering, how can someone be so silly and this smart at the same time?😂 Are you sure you wrote your exams yourself 🌚
+        
+        I pray that this is only the beginning of great things in your life. I pray that you also finally make a choice and settle down, and stop gallivanting on these single streets, you don dey old oo🙂
+        
+        I miss you so much and I love you my dearest friend.`,
+        author: "Feyi Olu"
     }
 ]
 
